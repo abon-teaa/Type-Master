@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 135c79448efd3b44e9f11ac071e05894
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - settingsPanel: {fileID: 6379118045044444708, guid: 2eb5e9dedaf1dcf4589ec4faa809301d, type: 3}
+  - levelPanel: {instanceID: 0}
+  - themeButton: {instanceID: 0}
+  - lightModeButtonIcon: {instanceID: 0}
+  - darkModeButtonIcon: {instanceID: 0}
+  - soundButton: {instanceID: 0}
+  - soundOnButtonIcon: {instanceID: 0}
+  - soundOffButtonIcon: {instanceID: 0}
+  - returnButton: {instanceID: 0}
+  - lightBackground: {instanceID: 0}
+  - darkBackground: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
